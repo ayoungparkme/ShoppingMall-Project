@@ -1,9 +1,9 @@
 import React from 'react';
 
-export default function NotFound() {
+export default function MyCart() {
     return (
         <div>
-            Not Found
+            My Cart
         </div>
     );
 }

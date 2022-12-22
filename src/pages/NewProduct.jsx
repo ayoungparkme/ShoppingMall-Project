@@ -1,9 +1,9 @@
 import React from 'react';
 
-export default function NotFound() {
+export default function NewProduct() {
     return (
         <div>
-            Not Found
+            New Product
         </div>
     );
 }
