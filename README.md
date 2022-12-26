@@ -1,6 +1,9 @@
-<img src="./pic/screencapture-main.png" 
+<img src="./img/shoppyMain.png" 
 width=90% 
 height = auto>
-<img src="./pic/screencapture-detailed.png" 
+<img src="./img/shoppyCart.png" 
+width=90% 
+height = auto>
+<img src="./img/shoppyNewProduct.png" 
 width=90% 
 height = auto>
